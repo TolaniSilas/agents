@@ -1,1 +1,1 @@
-# agents
+This repository is dedicated to learning about **AI agents** — how they work, how to build them, and how they fit into the broader landscape of Generative AI.
